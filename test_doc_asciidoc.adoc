@@ -31,8 +31,8 @@ hinweggeschwunden.
 
 // Includes are not supposed to work as of now
 
-// include::test_doc_asciidoc_include_me.adoc[]
-// include::subfolder/test_doc_asciidoc_include_me_subfolder.adoc[]
+include::test_doc_asciidoc_include_me.adoc[]
+include::subfolder/test_doc_asciidoc_include_me_subfolder.adoc[]
 
 ### Asciidoc Third Level with Ditaa Diagramm
 
