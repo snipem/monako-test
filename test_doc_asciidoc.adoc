@@ -1,3 +1,12 @@
+---
+categories:
+- Asciidoc
+- Test
+date: "2020-04-03"
+description: This is a test document for Asciidoc
+title: Asciidoc Test
+---
+
 = Asciidoc First Level
 :toc:
 
