@@ -1,3 +1,12 @@
+---
+categories:
+- Markdown
+- Test
+date: "2020-04-03"
+description: This is a test document for Markdown
+title: Markdown Test
+---
+
 # Markdown Doc 1
 
 Remember these docs have to be commited in order to appear!
