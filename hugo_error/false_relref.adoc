@@ -1,0 +1,7 @@
+# Markdown Test 1
+
+Working example:
+({{< relref "false_relref" >}})
+
+This should fail:
+({{< relref "is missing bigger than symbol at the end" }})
