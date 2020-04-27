@@ -79,6 +79,8 @@ hinweggeschwunden.
 .Picture in sub folder
 image:subfolder/subfolderprofile.png[Picture in sub folder]
 
+link:http://urlwith.quotes/My%20LinkWith%20Whitespace[]
+
 ### Mermaid Example
 
 {{< mermaid >}}
