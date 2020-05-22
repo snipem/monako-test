@@ -45,7 +45,8 @@ hinweggeschwunden.
 
 ### Asciidoc Third Level with Ditaa Diagramm
 
-[ditaa]
+[ditaa, target="ditaa-diagram", svg]
+
 ....
                    +-------------+
                    | Asciidoctor |-------+
